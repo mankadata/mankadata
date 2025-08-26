@@ -10,8 +10,7 @@ Here’s what I do:
 
 ---
 
-📫 You can find me here:  
-- [LinkedIn](https://www.linkedin.com/in/mmankad/)
+📫 You can find me here: [LinkedIn](https://www.linkedin.com/in/mmankad/)
 
 ---
 
