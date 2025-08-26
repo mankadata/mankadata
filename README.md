@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mariann — but just call me Manka
+### 👋 Hi, I'm Mariann — but just call me Manka
 
 I'm a BI Specialist who’s passionate about **data, analytics, and turning raw numbers into real insights**.  
 Here’s what I do:
