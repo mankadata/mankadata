@@ -1,17 +1,22 @@
-### 👋 Hi, I'm Mariann — but just call me Manka
+# Hi, I'm Mariann - but just call me Manka 👋
 
-I'm a BI Specialist who’s passionate about **data, analytics, and turning raw numbers into real insights**.  
-Here’s what I do:
+BI specialist who works on both sides of the report: not just the visuals, but the SQL,
+data models and pipelines behind them. I'm growing towards **data and analytics
+engineering**, and I keep learning to stay up to date with the modern data stack.
 
-- 📊 I build dashboards and data solutions that help teams make smarter decisions.  
-- 🛠️ I mostly work with **SQL, Python, Power BI and other Power Platform solutions like Canvas App or Power Automate**.  
-- 🚀 I enjoy experimenting with new BI tools, automation tricks, and ways to make data work harder.  
-- 🌱 Always learning and exploring how to push data storytelling to the next level.  
+**Day to day:** SQL, data modelling and Python behind Power BI reports, plus Power Platform
+  solutions (Canvas Apps, Power Automate) that take manual work off people's desks.
 
----
+### Projects
 
-📫 You can find me here: [LinkedIn](https://www.linkedin.com/in/mmankad/)
+| Project | What it is |
+|---|---|
+| [webshop-analytics-platform](https://github.com/mankadata/webshop-analytics-platform) | Work-in-progress analytics engineering project: dbt staging / intermediate / marts on PostgreSQL. [Build log](https://mankadata.github.io/webshop-analytics-platform/) |
+| [PBIX-portfolio](https://github.com/mankadata/PBIX-portfolio) | Power BI reports and data models |
 
----
+### Toolbox
+SQL · Python · Power BI · DAX · Power Apps · Power Automate
+dbt · PostgreSQL · Docker · Airflow · Git & CI
 
-💡 *Fun fact*: I believe data should tell a story 
+
+📫 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
