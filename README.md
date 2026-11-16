@@ -9,4 +9,4 @@ SQL · Python · Power BI · DAX · Power Apps · Power Automate
 dbt · PostgreSQL · Docker · Airflow · Git & CI
 
 
-📫 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+📫 [LinkedIn](https://www.linkedin.com/in/mmariann)
